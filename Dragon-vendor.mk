@@ -226,7 +226,7 @@ PRODUCT_COPY_FILES += \
     vendor/nokia/Dragon/proprietary/product/lib64/vendor.qti.imsrtpservice@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.imsrtpservice@2.0.so \
     vendor/nokia/Dragon/proprietary/product/lib64/vendor.qti.imsrtpservice@2.1.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.imsrtpservice@2.1.so \
     vendor/nokia/Dragon/proprietary/product/lib64/vendor.qti.latency@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.latency@2.0.so \
-    vendor/nokia/Dragon/proprietary/product/overlay/aptxalsOverlay.apk:$(TARGET_COPY_OUT_PRODUCT)/overlay/aptxalsOverlay.apk \
+
     vendor/nokia/Dragon/proprietary/vendor/bin/ATFWD-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ATFWD-daemon \
     vendor/nokia/Dragon/proprietary/vendor/bin/B2N2_TAS2557.ftcfg:$(TARGET_COPY_OUT_VENDOR)/bin/B2N2_TAS2557.ftcfg \
     vendor/nokia/Dragon/proprietary/vendor/bin/B2N2_TAS2557_ICTspk.ftcfg:$(TARGET_COPY_OUT_VENDOR)/bin/B2N2_TAS2557_ICTspk.ftcfg \
